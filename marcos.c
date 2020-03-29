@@ -19,7 +19,7 @@ void ft_putstr(char *string)
     }
 }
 int main(int argc, char **argv)
-{
+{ 
     if (argc == 2)
     {
         ft_putstr(ONE);
